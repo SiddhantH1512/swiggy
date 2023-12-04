@@ -1,0 +1,4 @@
+[core]
+    remote = sid_remote
+['remote "sid_remote"']
+    url = ../tmp
